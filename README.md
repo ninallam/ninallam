@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 I am a Product Manager at Microsoft. 
 
-<img align="left" alt="j-martens' GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ninallam&show_icons=true&theme=radical" />
+<img align="left" alt="ninallam' GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ninallam&show_icons=true&theme=dracula" />
